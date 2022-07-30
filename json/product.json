@@ -1,0 +1,37 @@
+[
+    {
+        "image": "/img/computer1.jpg",
+        "title": "HUAWEI Mate 10 4GB+64GB 全网通版（白色）",
+        "price": 5500,
+        "express": 33,
+        "time": "2022-04-10"
+    },
+    {
+        "image": "/img/choose-1.jpg",
+        "title": "HUAWEI Mate 10 4GB+64GB 全网通版（白色）",
+        "price": 5350,
+        "express": 76,
+        "time": "2022-04-07"
+    },
+    {
+        "image": "/img/computer1.jpg",
+        "title": "HUAWEI Mate 10 4GB+64GB 全网通版（白色）",
+        "price": 5460,
+        "express": 11,
+        "time": "2022-03-18"
+    },
+    {
+        "image": "/img/choose-1.jpg",
+        "title": "HUAWEI Mate 10 4GB+64GB 全网通版（白色）",
+        "price": 4530,
+        "express": 22,
+        "time": "2022-05-11"
+    },
+    {
+        "image": "/img/computer1.jpg",
+        "title": "HUAWEI Mate 10 4GB+64GB 全网通版（白色）",
+        "price": 4950,
+        "express": 10,
+        "time": "2021-02-10"
+    }
+]
